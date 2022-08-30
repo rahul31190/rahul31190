@@ -1,1 +1,3 @@
 This is file A 
+This is the new line added in file A to check make changes to fileA and same need to tracked in git for v
+version control 
